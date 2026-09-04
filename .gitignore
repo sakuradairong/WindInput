@@ -35,3 +35,4 @@ data/schemas/aux_code/
 # scripts/lm/ 的分析脚本跑一次就会留字节码缓存
 __pycache__/
 *.pyc
+.scratch/flash-screen-frames/
